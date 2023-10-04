@@ -69,7 +69,7 @@ where `μ` is the constant value of the distribution.
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-entropy@v0.1.1-esm/index.mjs';
 ```
 
 #### entropy( mu )
@@ -114,7 +114,7 @@ v = entropy( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-entropy@v0.1.1-esm/index.mjs';
 
 var mu;
 var v;

@@ -2,6 +2,65 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-07)
+
+<section class="features">
+
+### Features
+
+-   [`b80369c`](https://github.com/stdlib-js/stdlib/commit/b80369c5e9107c8e79a6158f7c2a6afc14a73b4f) - add C implementation for `stats/base/dists/degenerate/entropy` [(#4379)](https://github.com/stdlib-js/stdlib/pull/4379)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3536](https://github.com/stdlib-js/stdlib/issues/3536)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b80369c`](https://github.com/stdlib-js/stdlib/commit/b80369c5e9107c8e79a6158f7c2a6afc14a73b4f) - **feat:** add C implementation for `stats/base/dists/degenerate/entropy` [(#4379)](https://github.com/stdlib-js/stdlib/pull/4379) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
+-   [`1fc3918`](https://github.com/stdlib-js/stdlib/commit/1fc3918810a556d2593f4ec8a0764dce88a519fc) - **bench:** refactor random number generation in `stats/base/dists/degenerate` [(#4862)](https://github.com/stdlib-js/stdlib/pull/4862) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Neeraj Pathak
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)

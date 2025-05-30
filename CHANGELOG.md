@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-01)
+## Unreleased (2025-05-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`776c7e4`](https://github.com/stdlib-js/stdlib/commit/776c7e4b2fb38b08d91da3b7a9a99e2cd83a372d) - **docs:** replace manual `for` loop in examples [(#7122)](https://github.com/stdlib-js/stdlib/pull/7122) _(by Harsh, Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`368834a`](https://github.com/stdlib-js/stdlib/commit/368834a3ca4a12ad798730909270cabbfb369d1b) - **chore:** address commit comments [(#5101)](https://github.com/stdlib-js/stdlib/pull/5101) _(by Saurabh Singh)_
 -   [`b80369c`](https://github.com/stdlib-js/stdlib/commit/b80369c5e9107c8e79a6158f7c2a6afc14a73b4f) - **feat:** add C implementation for `stats/base/dists/degenerate/entropy` [(#4379)](https://github.com/stdlib-js/stdlib/pull/4379) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
@@ -49,8 +50,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
